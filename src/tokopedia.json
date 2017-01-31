@@ -1,0 +1,632 @@
+{
+    "data": [
+        {
+            "ad_ref_key": "SWFTUUVOZVJJQ0FpVWFxVmVQQ1JIb0xsT0JnZ2VleGpKTkNJd2xmTGhydXZYdWJybFQxN2JkMDcxZi1kNDA3LTQ1ZTMtNjM3MC03NTE0YTZjZmU1YmQ",
+            "id": "3319566",
+            "product": {
+                "category": {
+                    "id": "1780"
+                },
+                "count_review_format": "2",
+                "count_talk_format": "13",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=11439434&shop_id=1365859&product_id=63251465",
+                "id": "63251465",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2016/8/19/973802/973802_a9fa7180-1229-42f8-9103-7699b16afe31.jpg",
+                    "m_url": "https://ecs7.tokopedia.net/img/cache/300/product-1/2016/8/19/973802/973802_a9fa7180-1229-42f8-9103-7699b16afe31.jpg",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/8/19/973802/973802_a9fa7180-1229-42f8-9103-7699b16afe31.jpg",
+                    "s_url": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/8/19/973802/973802_a9fa7180-1229-42f8-9103-7699b16afe31.jpg",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2016/8/19/973802/973802_a9fa7180-1229-42f8-9103-7699b16afe31.jpg",
+                    "xs_url": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2016/8/19/973802/973802_a9fa7180-1229-42f8-9103-7699b16afe31.jpg"
+                },
+                "labels": [
+                    {
+                        "color": "#ffffff",
+                        "title": "Grosir"
+                    }
+                ],
+                "name": "Celana Bahan Celana Kerja Celana Kantor Wanita QIANDRA",
+                "price_format": "Rp 75.000",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": true,
+                "relative_uri": "moommies-shop/celana-bahan-celana-kerja-celana-kantor-wanita-qiandra",
+                "uri": "https://www.tokopedia.com/moommies-shop/celana-bahan-celana-kerja-celana-kantor-wanita-qiandra?src=topads",
+                "wholesale_price": [
+                    {
+                        "price_format": "Rp 65.000",
+                        "quantity_max_format": "11",
+                        "quantity_min_format": "6"
+                    },
+                    {
+                        "price_format": "Rp 60.000",
+                        "quantity_max_format": "24",
+                        "quantity_min_format": "12"
+                    }
+                ]
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/HstpHpJNo_yf6sJEH_thoAKOo_npHsrN6s1FHn?alg=def&uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Fmoommies-shop%2Fcelana-bahan-celana-kerja-celana-kantor-wanita-qiandra%3Fsrc%3Dtopads&src=directory&t=desktop&ab_test=N",
+            "redirect": "https://www.tokopedia.com/moommies-shop",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=1365859&product_id=63251465",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/gold-active-large.png",
+                        "title": "Gold Merchant"
+                    }
+                ],
+                "city": "Kota Tangerang Selatan",
+                "domain": "moommies-shop",
+                "gold_shop": true,
+                "id": "1365859",
+                "is_owner": false,
+                "location": "Kota Tangerang Selatan",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=1365859",
+                "name": "Grosir Busana - MShop",
+                "owner_id": "11487667",
+                "uri": "https://www.tokopedia.com/moommies-shop"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/HstpHpJNo_yf6sJEH_thoAKOo_npHsrN6s1FHn?t=desktop&r=https%3A%2F%2Fwww.tokopedia.com%2Fmoommies-shop&uid=0&src=directory&alg=def&ab_test=N",
+            "sticker_id": "2",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-ok.png"
+        },
+        {
+            "ad_ref_key": "RXU2dEpud0xjVk80NGdLQVZkdkRvUjVpZjZqQkhMWUVJU21YdUkwRXVtODdxdmtxbVFCMTNGMzZGQy01MEFFLTExRTUtQkVEOS1GQjY3N0ZBNzA5MzY",
+            "id": "690595",
+            "product": {
+                "category": {
+                    "id": "1780"
+                },
+                "count_review_format": "164",
+                "count_talk_format": "373",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=325368&product_id=18048521",
+                "id": "18048521",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2016/8/10/18048521/18048521_d8478895-3d4b-4ad0-9857-06655c9b3bbe.jpg",
+                    "m_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6syNHA1No_th6sUEH_edo_1FHpUR6_2ByRHRbSz5qfYFg3z2yZNXg9e5q3OSbfoxyfxBbpHFHmYFrMYjP3o7b_J5Hsnhoi4dbpJFbpJdHAedo_UhbpJdHAedo_Uh9fedoArd6AjOb_ojocUWocVjHm7N6A1Rb_nfos1OypBiHf-igZNkrcr?t=desktop&ab_test=N&uid=0&src=directory&alg=def",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/8/10/18048521/18048521_d8478895-3d4b-4ad0-9857-06655c9b3bbe.jpg",
+                    "s_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6syNHA1No_th6sUEH_edo_1FHpUR6_2ByRHRbSz5qfYFg3z2yZNXg9e5q3OSbfoxyfxBbpUFHmOpr9uxrM15rI-5gIusPm7hbpUFH_y56m4hHm4h6An76A1aHZ4h6An76A1aHuYj6AeR6AKNoZ7pgAzib_zxgAnW6_KOoa7FosyOo3HNysoiyM1XqSCS?uid=0&alg=def&ab_test=N&t=desktop&src=directory",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2016/8/10/18048521/18048521_d8478895-3d4b-4ad0-9857-06655c9b3bbe.jpg",
+                    "xs_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6syNHA1No_th6sUEH_edo_1FHpUR6_2ByRHRbSz5qfYFg3z2yZNXg9e5q3OSbfoxyfxBbpJFHmOpr9uxrM15rI-5gIusPm7hbpUFH_y56m4hHm4h6An76A1aHZ4h6An76A1aHuYj6AeR6AKNoZ7pgAzib_zxgAnW6_KOoa7FosyOo3HNysoiyM1XqSCS?t=desktop&src=directory&uid=0&ab_test=N&alg=def"
+                },
+                "labels": [
+                    {
+                        "color": "#ffffff",
+                        "title": "Grosir"
+                    }
+                ],
+                "name": "PROMO Basic Cullotes Celana Kulot Aladdin JP142",
+                "price_format": "Rp 69.999",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": true,
+                "relative_uri": "afwindogrosir/promo-basic-cullotes-celana-kulot-aladdin-jp142",
+                "uri": "https://www.tokopedia.com/afwindogrosir/promo-basic-cullotes-celana-kulot-aladdin-jp142?src=topads",
+                "wholesale_price": [
+                    {
+                        "price_format": "Rp 64.500",
+                        "quantity_max_format": "12",
+                        "quantity_min_format": "4"
+                    }
+                ]
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/Hstf6_nO6_1EH_ta6sJ76A1OHAHaopjEoAnF?ab_test=N&src=directory&alg=def&t=desktop&r=https%3A%2F%2Fwww.tokopedia.com%2Fafwindogrosir%2Fpromo-basic-cullotes-celana-kulot-aladdin-jp142%3Fsrc%3Dtopads&uid=0",
+            "redirect": "https://www.tokopedia.com/afwindogrosir",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=325368&product_id=18048521",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/gold-active-large.png",
+                        "title": "Gold Merchant"
+                    }
+                ],
+                "city": "Kota Bandung",
+                "domain": "afwindogrosir",
+                "gold_shop": true,
+                "id": "325368",
+                "is_owner": false,
+                "location": "Kota Bandung",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=325368",
+                "name": "AFWINDO Grosir Fashion",
+                "owner_id": "2460816",
+                "uri": "https://www.tokopedia.com/afwindogrosir"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/Hstf6_nO6_1EH_ta6sJ76A1OHAHaopjEoAnF?r=https%3A%2F%2Fwww.tokopedia.com%2Fafwindogrosir&alg=def&t=desktop&src=directory&ab_test=N&uid=0",
+            "sticker_id": "2",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-ok.png"
+        },
+        {
+            "ad_ref_key": "cGJFSFVzZEdFQ2hoSWppY3NmcVlqSHpZdFZlaXllTVBTakFIZnJsSGtUTm9DSmRBRXU2MzUwOWU0OS1mYTRjLTRkODAtNTE4My1mYWEwZDc5Y2VkZTc",
+            "id": "4786726",
+            "product": {
+                "category": {
+                    "id": "1949"
+                },
+                "count_review_format": "3",
+                "count_talk_format": "0",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=10458888&shop_id=811466&product_id=101334492",
+                "id": "101334492",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2017/1/23/101334492/101334492_f1c0f424-0e5c-4d20-a818-bdbe40ec2c4d_2048_0.jpg",
+                    "m_url": "https://ecs7.tokopedia.net/img/cache/300/product-1/2017/1/23/101334492/101334492_f1c0f424-0e5c-4d20-a818-bdbe40ec2c4d_2048_0.jpg",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/1/23/101334492/101334492_f1c0f424-0e5c-4d20-a818-bdbe40ec2c4d_2048_0.jpg",
+                    "s_url": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/1/23/101334492/101334492_f1c0f424-0e5c-4d20-a818-bdbe40ec2c4d_2048_0.jpg",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2017/1/23/101334492/101334492_f1c0f424-0e5c-4d20-a818-bdbe40ec2c4d_2048_0.jpg",
+                    "xs_url": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2017/1/23/101334492/101334492_f1c0f424-0e5c-4d20-a818-bdbe40ec2c4d_2048_0.jpg"
+                },
+                "name": "Daniel Wellington Classic Black 36mm ORIGINAL",
+                "price_format": "Rp 1.700.000",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": false,
+                "relative_uri": "yanawatches/daniel-wellington-classic-black-36mm-original",
+                "uri": "https://www.tokopedia.com/yanawatches/daniel-wellington-classic-black-36mm-original?src=topads",
+                "wholesale_price": []
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/H_t7opKfopUf6sJEHpthoAKOo_npHsrN6s1FHn?alg=def&ab_test=N&t=desktop&uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Fyanawatches%2Fdaniel-wellington-classic-black-36mm-original%3Fsrc%3Dtopads&src=directory",
+            "redirect": "https://www.tokopedia.com/yanawatches",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=811466&product_id=101334492",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/gold-active-large.png",
+                        "title": "Gold Merchant"
+                    }
+                ],
+                "city": "Jakarta",
+                "domain": "yanawatches",
+                "gold_shop": true,
+                "id": "811466",
+                "is_owner": false,
+                "location": "Jakarta",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=811466",
+                "name": "Yanawatches",
+                "owner_id": "4601283",
+                "uri": "https://www.tokopedia.com/yanawatches"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/H_t7opKfopUf6sJEHpthoAKOo_npHsrN6s1FHn?src=directory&alg=def&ab_test=N&t=desktop&uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Fyanawatches",
+            "sticker_id": "1",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-hot.png"
+        },
+        {
+            "ad_ref_key": "alNBUGJKa2hxWFBKQ0xDbnR3RUx5cWV4Tmx3Y1Bqc0Nob3ZxRG90Y2RxZWJva1BBaW4yOTc3ZTY1Yy03NjNmLTRhYjEtNGNiZi0yNjdkZjk3OGVlN2Y",
+            "id": "5154727",
+            "product": {
+                "category": {
+                    "id": "1915"
+                },
+                "count_review_format": "0",
+                "count_talk_format": "0",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=1097764&product_id=95525550",
+                "id": "95525550",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2016/11/19/1097764/1097764_36950d5a-cc24-4c44-a765-f126fec0711c",
+                    "m_url": "https://ta.tokopedia.com/promo/v1/views/H_tF6s1ho_eRHsrEH_t76sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4pHAn5rI-5gIusPm7hbpUFH_y5H_J5H_j5H_nNoprfom4hHAjRopy79pHf6_1FgAuxb3osHseWocH7omOxopyOb3yhHsgMg3HFopJhyF?src=directory&ab_test=N&t=desktop&alg=def&uid=0",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/11/19/1097764/1097764_36950d5a-cc24-4c44-a765-f126fec0711c",
+                    "s_url": "https://ta.tokopedia.com/promo/v1/views/H_tF6s1ho_eRHsrEH_t76sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJfbpJhbpJNbpJF6_rRose5H_nNoprfoV4posjOHceOyZOsypU7b_zsoAeWy_rfoZOMH_UfgMusHArhH3H?t=desktop&src=directory&ab_test=N&uid=0&alg=def",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2016/11/19/1097764/1097764_36950d5a-cc24-4c44-a765-f126fec0711c",
+                    "xs_url": "https://ta.tokopedia.com/promo/v1/views/H_tF6s1ho_eRHsrEH_t76sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4hHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJfbpJhbpJNbpJF6_rRose5H_nNoprfoV4posjOHceOyZOsypU7b_zsoAeWy_rfoZOMH_UfgMusHArhH3H?uid=0&alg=def&ab_test=N&t=desktop&src=directory"
+                },
+                "name": "JUAL HIGH HEELS CHRISTIAN LOUBOUTIN ANJALINA 10 CM MIRROR QUALITY",
+                "price_format": "Rp 1.550.000",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": false,
+                "relative_uri": "glosyshopp/jual-high-heels-christian-louboutin-anjalina-10-cm-mirror-quality",
+                "uri": "https://www.tokopedia.com/glosyshopp/jual-high-heels-christian-louboutin-anjalina-10-cm-mirror-quality?src=topads",
+                "wholesale_price": []
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/HAtOH_17opUR6sJEoAthoAKOo_npHsrN6s1FHn?r=https%3A%2F%2Fwww.tokopedia.com%2Fglosyshopp%2Fjual-high-heels-christian-louboutin-anjalina-10-cm-mirror-quality%3Fsrc%3Dtopads&alg=def&ab_test=N&src=directory&uid=0&t=desktop",
+            "redirect": "https://www.tokopedia.com/glosyshopp",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=1097764&product_id=95525550",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/gold-active-large.png",
+                        "title": "Gold Merchant"
+                    }
+                ],
+                "city": "Jakarta",
+                "domain": "glosyshopp",
+                "gold_shop": true,
+                "id": "1097764",
+                "is_owner": false,
+                "location": "Jakarta",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=1097764",
+                "name": "Glosyshopp",
+                "owner_id": "9078576",
+                "uri": "https://www.tokopedia.com/glosyshopp"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/HAtOH_17opUR6sJEoAthoAKOo_npHsrN6s1FHn?t=desktop&src=directory&uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Fglosyshopp&alg=def&ab_test=N",
+            "sticker_id": "0",
+            "sticker_image": ""
+        },
+        {
+            "ad_ref_key": "QWFablhyWldHSnlDZGRGWktWc2lOTFpyUmhuTnBVdFpQQkJSZnJ0bVl4dUJWclh6c2xiMDBlOTAxZC1kYTJkLTRkMDctN2UxYi05MTFlMGIwOGEwNTU",
+            "id": "4913595",
+            "product": {
+                "category": {
+                    "id": "1927"
+                },
+                "count_review_format": "3",
+                "count_talk_format": "1",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=229510&product_id=106432351",
+                "id": "106432351",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2017/1/11/106432351/106432351_9fb90b69-ad2d-40f3-812b-ba0140183503_800_800.jpeg",
+                    "m_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6seNH_HO6_1EH_tO6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4pHAn5rI-5gIusPm7hbpUFH_r5HZ4hHZ4hHAy7HpUpo_J5H_nfoAHaHp1h9pBMysjFysyNb3VjHMeWoACMHa7dH_-ib3-xHAJ7HAJdHp1FHO4dHACw6AnFbM2Fg3r?src=directory&t=desktop&uid=0&alg=def&ab_test=N",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/1/11/106432351/106432351_9fb90b69-ad2d-40f3-812b-ba0140183503_800_800.jpeg",
+                    "s_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6seNH_HO6_1EH_tO6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJRbpJ5H_J5H_nfoAHaHp1hbpJFosepHsHOHu4NgMUNHcUf6ZOxgA-jb_eFgsHW6AJayiOiy_nhoAnh6AHOHAow6AnF9pKFHmNkrcuS?uid=0&alg=def&src=directory&ab_test=N&t=desktop",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2017/1/11/106432351/106432351_9fb90b69-ad2d-40f3-812b-ba0140183503_800_800.jpeg",
+                    "xs_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6seNH_HO6_1EH_tO6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4hHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJRbpJ5H_J5H_nfoAHaHp1hbpJFosepHsHOHu4NgMUNHcUf6ZOxgA-jb_eFgsHW6AJayiOiy_nhoAnh6AHOHAow6AnF9pKFHmNkrcuS?t=desktop&uid=0&src=directory&ab_test=N&alg=def"
+                },
+                "name": "Princess 7 Ring Cincin Emas cincin berlian perhiasan emas cincin kawin",
+                "price_format": "Rp 3.999.000",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": false,
+                "relative_uri": "tiaria/princess-7-ring-cincin-emas-cincin-berlian-perhiasan-emas-cincin-kawin",
+                "uri": "https://www.tokopedia.com/tiaria/princess-7-ring-cincin-emas-cincin-berlian-perhiasan-emas-cincin-kawin?src=topads",
+                "wholesale_price": []
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/Hst76_Jpo_jO6sJEo_thoAKOo_npHsrN6seOHn?r=https%3A%2F%2Fwww.tokopedia.com%2Ftiaria%2Fprincess-7-ring-cincin-emas-cincin-berlian-perhiasan-emas-cincin-kawin%3Fsrc%3Dtopads&t=desktop&ab_test=N&alg=def&uid=0&src=directory",
+            "redirect": "https://www.tokopedia.com/tiaria",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=229510&product_id=106432351",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/official_store/badge_official.png",
+                        "title": "Official Store"
+                    }
+                ],
+                "city": "Jakarta",
+                "domain": "tiaria",
+                "gold_shop": true,
+                "id": "229510",
+                "is_owner": false,
+                "location": "Jakarta",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=229510",
+                "name": "Tiaria",
+                "owner_id": "1521440",
+                "uri": "https://www.tokopedia.com/tiaria"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/Hst76_Jpo_jO6sJEo_thoAKOo_npHsrN6seOHn?t=desktop&uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Ftiaria&src=directory&alg=def&ab_test=N",
+            "sticker_id": "2",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-ok.png"
+        },
+        {
+            "ad_ref_key": "UWhidGVPTnByblhBU0tmdnpBb0hvQkxLZmxkV2ttQlNNemlpRHpQVUVQZ1FickhqUGU0MjhhYzRmZS0zNzMzLTRlNzEtN2I2Ny00YjMyYWM1NDQ2ZjI",
+            "id": "2429443",
+            "product": {
+                "category": {
+                    "id": "1936"
+                },
+                "count_review_format": "53",
+                "count_talk_format": "35",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=136950&product_id=47598687",
+                "id": "47598687",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2016/6/23/47598687/47598687_7b5d6d53-f815-471e-8625-bc6f5f175f05.jpg",
+                    "m_url": "https://ta.tokopedia.com/promo/v1/views/H_th6sU7Hsj7oAHEH_tf6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4pHAn5rI-5gIusPm7hbpUFH_y5oi4aHa47op1N6Aydoa47op1N6AydoO4RysujoMeOHaOM6AJOb_eRH31W6AyaoZOiypgMo3yhopuMHA1XqSCS?src=directory&t=desktop&uid=0&alg=def&ab_test=N",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/6/23/47598687/47598687_7b5d6d53-f815-471e-8625-bc6f5f175f05.jpg",
+                    "s_url": "https://ta.tokopedia.com/promo/v1/views/H_th6sU7Hsj7oAHEH_tf6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJfbpy5HsH5oArO6_Kf6Ar5oArO6_Kf6APwofUOgAgjo_HWgsKhoZ77opVBb_KfHs1WyMHfgsuMH_rOgsnObM2FgF?uid=0&t=desktop&ab_test=N&src=directory&alg=def",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2016/6/23/47598687/47598687_7b5d6d53-f815-471e-8625-bc6f5f175f05.jpg",
+                    "xs_url": "https://ta.tokopedia.com/promo/v1/views/H_th6sU7Hsj7oAHEH_tf6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4hHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJfbpy5HsH5oArO6_Kf6Ar5oArO6_Kf6APwofUOgAgjo_HWgsKhoZ77opVBb_KfHs1WyMHfgsuMH_rOgsnObM2FgF?alg=def&ab_test=N&t=desktop&src=directory&uid=0"
+                },
+                "labels": [
+                    {
+                        "color": "#42b549",
+                        "title": "Cashback 5%"
+                    }
+                ],
+                "name": "Slim Mini Compact Bifold Mens Wallet Dompet Tipis Minimalis (SL1-MINI)",
+                "price_format": "Rp 265.000",
+                "product_cashback": true,
+                "product_cashback_rate": "5",
+                "product_preorder": false,
+                "product_wholesale": false,
+                "relative_uri": "sapilicin/slim-mini-compact-bifold-mens-wallet-dompet-tipis-minimalis-sl1-mini",
+                "uri": "https://www.tokopedia.com/sapilicin/slim-mini-compact-bifold-mens-wallet-dompet-tipis-minimalis-sl1-mini?src=topads",
+                "wholesale_price": []
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/H_taoAUNoAep6sJEosthoAKOo_npHsrN6s1FHn?t=desktop&r=https%3A%2F%2Fwww.tokopedia.com%2Fsapilicin%2Fslim-mini-compact-bifold-mens-wallet-dompet-tipis-minimalis-sl1-mini%3Fsrc%3Dtopads&src=directory&alg=def&ab_test=N&uid=0",
+            "redirect": "https://www.tokopedia.com/sapilicin",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=136950&product_id=47598687",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/gold-active-large.png",
+                        "title": "Gold Merchant"
+                    }
+                ],
+                "city": "Jakarta",
+                "domain": "sapilicin",
+                "gold_shop": true,
+                "id": "136950",
+                "is_owner": false,
+                "location": "Jakarta",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=136950",
+                "name": "Sapilicin Le Collezione",
+                "owner_id": "674301",
+                "uri": "https://www.tokopedia.com/sapilicin"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/H_taoAUNoAep6sJEosthoAKOo_npHsrN6s1FHn?ab_test=N&t=desktop&uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Fsapilicin&alg=def&src=directory",
+            "sticker_id": "1",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-hot.png"
+        },
+        {
+            "ad_ref_key": "ZHlGWFNFZGZrcHhBYUNUbU5UQk1mYXdQeW9PbWNWd29XQlZqb1pDVFZRbkVRWHFMaXdmMjYxM2YzNS0wODkyLTQ0YTItNDM1ZS01YWRkZDA1MTVlYzY",
+            "id": "3154814",
+            "product": {
+                "category": {
+                    "id": "1785"
+                },
+                "count_review_format": "0",
+                "count_talk_format": "0",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=1353013&product_id=59626741",
+                "id": "59626741",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2016/8/23/11379826/11379826_be6a0394-6f98-4581-b7d9-1cd37bf6196c.jpg",
+                    "m_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6sHho_edH_eEH_tR6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4pHAn5rI-5gIusPm7hbpUFH_y56m4aHa4hH_HR6_Kaoi4hH_HR6_KaoBYig_gxHAHNom7fgsjdb_eO6AJWysPj6Z7hyfepof-MosJNoMHXqSCS?alg=def&t=desktop&ab_test=N&uid=0&src=directory",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/8/23/11379826/11379826_be6a0394-6f98-4581-b7d9-1cd37bf6196c.jpg",
+                    "s_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6sHho_edH_eEH_tR6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJfbpK5HsH5H_JpopjdHsy5H_JpopjdHsgwyM1fy_np6_eWoMyN6m77o_Khb3URgAjWH3ojHpPigsyh6_gsbM2FgF?t=desktop&alg=def&uid=0&src=directory&ab_test=N",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2016/8/23/11379826/11379826_be6a0394-6f98-4581-b7d9-1cd37bf6196c.jpg",
+                    "xs_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6sHho_edH_eEH_tR6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4hHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJfbpK5HsH5H_JpopjdHsy5H_JpopjdHsgwyM1fy_np6_eWoMyN6m77o_Khb3URgAjWH3ojHpPigsyh6_gsbM2FgF?src=directory&t=desktop&ab_test=N&alg=def&uid=0"
+                },
+                "name": "Rok Wanita - Skort CC225",
+                "price_format": "Rp 135.000",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": false,
+                "relative_uri": "adelgio/rok-wanita-skort-cc225",
+                "uri": "https://www.tokopedia.com/adelgio/rok-wanita-skort-cc225?src=topads",
+                "wholesale_price": []
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/HstpH_176AJ76sJEopthoAKOo_npHsrN6seFHn?alg=def&ab_test=N&src=directory&t=desktop&uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Fadelgio%2Frok-wanita-skort-cc225%3Fsrc%3Dtopads",
+            "redirect": "https://www.tokopedia.com/adelgio",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=1353013&product_id=59626741",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/gold-active-large.png",
+                        "title": "Gold Merchant"
+                    }
+                ],
+                "city": "Jakarta",
+                "domain": "adelgio",
+                "gold_shop": true,
+                "id": "1353013",
+                "is_owner": false,
+                "location": "Jakarta",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=1353013",
+                "name": "Adelgio",
+                "owner_id": "11379826",
+                "uri": "https://www.tokopedia.com/adelgio"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/HstpH_176AJ76sJEopthoAKOo_npHsrN6seFHn?t=desktop&uid=0&alg=def&r=https%3A%2F%2Fwww.tokopedia.com%2Fadelgio&src=directory&ab_test=N",
+            "sticker_id": "2",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-ok.png"
+        },
+        {
+            "ad_ref_key": "T3lEV2VIQmRsVlh2c2FxcHZ5YkdaSUJHREZ3WW5ocGx2YnJOU0ZUVEJaaEhHaUFldGc4NTQ0YWZiNy0zN2E2LTRmMWEtNzVhMy0zY2VkNjZlNmNkODE",
+            "id": "5478460",
+            "product": {
+                "category": {
+                    "id": "1925"
+                },
+                "count_review_format": "14",
+                "count_talk_format": "12",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=15899745&shop_id=1017796&product_id=44056522",
+                "id": "44056522",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2016/11/18/44056522/44056522_32ceca21-45c6-42ec-9a0e-67c0c9a7cfe7.jpg",
+                    "m_url": "https://ta.tokopedia.com/promo/v1/views/H_th6s17opK7osnEH_td6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4pHAn5rI-5gIusPm7hbpUFH_y5H_J5H_K5oAeFo_yOHsU5oAeFo_yOHs-wHp-sg3oxHsJWoAusoi77HMusb_BxHc1WosPsHcHNy_PsgM1RbM2FgF?alg=def&ab_test=N&t=desktop&src=directory&uid=0",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/11/18/44056522/44056522_32ceca21-45c6-42ec-9a0e-67c0c9a7cfe7.jpg",
+                    "s_url": "https://ta.tokopedia.com/promo/v1/views/H_th6s17opK7osnEH_td6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJfbpJhbpJdbpe7HA1fo_Uabpe7HA1fo_Ua9pHayfusy_Uhb_eOypyWoA-Bya7Ny_CBb_yRypCs63JRyfgBoaNkrcr?src=directory&t=desktop&alg=def&uid=0&ab_test=N",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2016/11/18/44056522/44056522_32ceca21-45c6-42ec-9a0e-67c0c9a7cfe7.jpg",
+                    "xs_url": "https://ta.tokopedia.com/promo/v1/views/H_th6s17opK7osnEH_td6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4hHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJfbpJhbpJdbpe7HA1fo_Uabpe7HA1fo_Ua9pHayfusy_Uhb_eOypyWoA-Bya7Ny_CBb_yRypCs63JRyfgBoaNkrcr?t=desktop&uid=0&ab_test=N&src=directory&alg=def"
+                },
+                "labels": [
+                    {
+                        "color": "#ffffff",
+                        "title": "Grosir"
+                    }
+                ],
+                "name": "Yaxiya xuping kalung italy perhiasan imitasi lapis emas aksesoris",
+                "price_format": "Rp 31.500",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": true,
+                "relative_uri": "yaxiyajewelry/yaxiya-xuping-kalung-italy-perhiasan-imitasi-lapis-emas-aksesoris-2",
+                "uri": "https://www.tokopedia.com/yaxiyajewelry/yaxiya-xuping-kalung-italy-perhiasan-imitasi-lapis-emas-aksesoris-2?src=topads",
+                "wholesale_price": [
+                    {
+                        "price_format": "Rp 25.900",
+                        "quantity_max_format": "12",
+                        "quantity_min_format": "3"
+                    }
+                ]
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/H_tOoArdoAyF6sJE6AthoAKOo_npHsrN6sHOHn?uid=0&ab_test=N&r=https%3A%2F%2Fwww.tokopedia.com%2Fyaxiyajewelry%2Fyaxiya-xuping-kalung-italy-perhiasan-imitasi-lapis-emas-aksesoris-2%3Fsrc%3Dtopads&t=desktop&src=directory&alg=def",
+            "redirect": "https://www.tokopedia.com/yaxiyajewelry",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=1017796&product_id=44056522",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/gold-active-large.png",
+                        "title": "Gold Merchant"
+                    }
+                ],
+                "city": "Jakarta",
+                "domain": "yaxiyajewelry",
+                "gold_shop": true,
+                "id": "1017796",
+                "is_owner": false,
+                "location": "Jakarta",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=1017796",
+                "name": "YAXIYA Shop",
+                "owner_id": "8468808",
+                "uri": "https://www.tokopedia.com/yaxiyajewelry"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/H_tOoArdoAyF6sJE6AthoAKOo_npHsrN6sHOHn?alg=def&uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Fyaxiyajewelry&src=directory&ab_test=N&t=desktop",
+            "sticker_id": "1",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-hot.png"
+        },
+        {
+            "ad_ref_key": "dmJXZ1RoWlphUlhsRWljeVpvdHJqT05PWHdzTlRiaUJGV0NTZk9yZUt1RFVmcktHb0QwMzllODE3Yy0wOTNhLTQyMTYtNDg0ZS1iNzRjNmEwMjdmYWM",
+            "id": "4849668",
+            "product": {
+                "category": {
+                    "id": "1927"
+                },
+                "count_review_format": "0",
+                "count_talk_format": "4",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=8544399&shop_id=229510&product_id=104003324",
+                "id": "104003324",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2017/1/25/104003324/104003324_8c0c4051-4e15-4eff-aff1-c63a235d6204_1200_1200.jpg",
+                    "m_url": "https://ta.tokopedia.com/promo/v1/views/H_tp6sedoAjfosKEH_tN6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4pHAn5rI-5gIusPm7hbpUFH_r5HZ4aoZ4hHAeFHAHpHse5H_n7HAnpHpU79pxsHcH7HA1hb_zBH_1WocuMgiOxgMyhb3HfHfJaHpujosUFoV4hHsnF9pJaHAnXqSCS?uid=0&src=directory&alg=def&ab_test=N&t=desktop",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/1/25/104003324/104003324_8c0c4051-4e15-4eff-aff1-c63a235d6204_1200_1200.jpg",
+                    "s_url": "https://ta.tokopedia.com/promo/v1/views/H_tp6sedoAjfosKEH_tN6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4aHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJRbpJ5Hs15H_n7HAnpHpU7bpJFoAnFHpHaoV4dypCsoAnOHZ77g_JOb_zBgMyWy3gMHZOsosoxHsHOgAyaHAzwH_UFHV4hHsnFbM2FgF?t=desktop&uid=0&ab_test=N&src=directory&alg=def",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2017/1/25/104003324/104003324_8c0c4051-4e15-4eff-aff1-c63a235d6204_1200_1200.jpg",
+                    "xs_url": "https://ta.tokopedia.com/promo/v1/views/H_tp6sedoAjfosKEH_tN6sJ76A1OHAHaopjEg3opoaN7QfW5rcujq3JXQMu7bfBWgaYsy3otgZ4hHAnWrRVOy9-BbRCaQfzOyReWHZ4aHAJRbpJ5Hs15H_n7HAnpHpU7bpJFoAnFHpHaoV4dypCsoAnOHZ77g_JOb_zBgMyWy3gMHZOsosoxHsHOgAyaHAzwH_UFHV4hHsnFbM2FgF?ab_test=N&src=directory&uid=0&alg=def&t=desktop"
+                },
+                "name": "Rose Ring Cincin Emas cincin berlian perhiasan emas cincin kawin",
+                "price_format": "Rp 5.990.000",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": false,
+                "relative_uri": "tiaria/rose-ring-cincin-emas-cincin-berlian-perhiasan-emas-cincin-kawin",
+                "uri": "https://www.tokopedia.com/tiaria/rose-ring-cincin-emas-cincin-berlian-perhiasan-emas-cincin-kawin?src=topads",
+                "wholesale_price": []
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/Hpt76AeNosyd6sJE6_thoAKOo_npHsrN6seOHn?t=desktop&alg=def&uid=0&ab_test=N&r=https%3A%2F%2Fwww.tokopedia.com%2Ftiaria%2Frose-ring-cincin-emas-cincin-berlian-perhiasan-emas-cincin-kawin%3Fsrc%3Dtopads&src=directory",
+            "redirect": "https://www.tokopedia.com/tiaria",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=229510&product_id=104003324",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/official_store/badge_official.png",
+                        "title": "Official Store"
+                    }
+                ],
+                "city": "Jakarta",
+                "domain": "tiaria",
+                "gold_shop": true,
+                "id": "229510",
+                "is_owner": false,
+                "location": "Jakarta",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=229510",
+                "name": "Tiaria",
+                "owner_id": "1521440",
+                "uri": "https://www.tokopedia.com/tiaria"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/Hpt76AeNosyd6sJE6_thoAKOo_npHsrN6seOHn?uid=0&r=https%3A%2F%2Fwww.tokopedia.com%2Ftiaria&src=directory&alg=def&t=desktop&ab_test=N",
+            "sticker_id": "3",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-toa.png"
+        },
+        {
+            "ad_ref_key": "TktzUUp6YVlTSHVPQ1RiVVFhcEpkZEdHTk96dGh1TXlMS0liSGZ0U3p2R09ScUdSaHozZDJmZGQyOS1lMzRiLTQ3MTktNjU4ZC1lYTI1ZTk5ODcwOGM",
+            "id": "4696128",
+            "product": {
+                "category": {
+                    "id": "1935"
+                },
+                "count_review_format": "6",
+                "count_talk_format": "23",
+                "free_return": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=96161&product_id=67910643",
+                "id": "67910643",
+                "image": {
+                    "m_ecs": "https://ecs7.tokopedia.net/img/cache/300/product-1/2016/9/21/96161/96161_fae279a5-7f81-4277-a2c8-757cf278576b.jpg",
+                    "m_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6sef6_yhHsKEH_thHAthoAKOo_npHsrN6MusrprXPcY0QRCBgcBxbMNBPmY2Q3r5yfVsqc15HpnFbRCaQfzOyReWHZ4aHAJfbpj5HsJ56_yhosJ56_yhosVwgMVBHsrNy_1WofydHZ77HsrRb3JaypKWop1RyfyaopKOopgibM2FgF?t=desktop&src=directory&alg=def&ab_test=N&uid=0",
+                    "s_ecs": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/9/21/96161/96161_fae279a5-7f81-4277-a2c8-757cf278576b.jpg",
+                    "s_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6sef6_yhHsKEH_thHAthoAKOo_npHsrN6MusrprXPcY0QRCBgcBxbMNBPmY2Q3r5yfVsqc15HsnFb9ohP3VagZYFrMYjP3o7b_J5Hsnhoi4NbpUhbpjfH_yhbpjfH_yh9fgxg_UR63JOb_PM6AJWoAURoaOxHMHdb_rOofoMHsrdo_rfyiNkrcr?uid=0&alg=def&src=directory&ab_test=N&t=desktop",
+                    "xs_ecs": "https://ecs7.tokopedia.net/img/cache/100-square/product-1/2016/9/21/96161/96161_fae279a5-7f81-4277-a2c8-757cf278576b.jpg",
+                    "xs_url": "https://ta.tokopedia.com/promo/v1/views/H_ta6sef6_yhHsKEH_thHAthoAKOo_npHsrN6MusrprXPcY0QRCBgcBxbMNBPmY2Q3r5yfVsqc15H_nFb9ohP3VagZYFrMYjP3o7b_J5Hsnhoi4NbpUhbpjfH_yhbpjfH_yh9fgxg_UR63JOb_PM6AJWoAURoaOxHMHdb_rOofoMHsrdo_rfyiNkrcr?src=directory&alg=def&t=desktop&uid=0&ab_test=N"
+                },
+                "name": "kacamata fashion pria or wanita / kc 22",
+                "price_format": "Rp 28.500",
+                "product_cashback": false,
+                "product_cashback_rate": "",
+                "product_preorder": false,
+                "product_wholesale": false,
+                "relative_uri": "alkasih/kacamata-fashion-pria-or-wanita-kc-22",
+                "uri": "https://www.tokopedia.com/alkasih/kacamata-fashion-pria-or-wanita-kc-22?src=topads",
+                "wholesale_price": []
+            },
+            "product_click_url": "https://ta.tokopedia.com/promo/v1/clicks/Hst7osjfH_Ud6sJEH_nEH_edo_1FHpUR6_tao_n?uid=0&ab_test=N&t=desktop&r=https%3A%2F%2Fwww.tokopedia.com%2Falkasih%2Fkacamata-fashion-pria-or-wanita-kc-22%3Fsrc%3Dtopads&alg=def&src=directory",
+            "redirect": "https://www.tokopedia.com/alkasih",
+            "shop": {
+                "badges": [
+                    {
+                        "image_url": "https://hermes.tokopedia.com/v1/prosecure/badge?user_id=0&shop_id=96161&product_id=67910643",
+                        "title": "Free Return"
+                    },
+                    {
+                        "image_url": "https://ecs7.tokopedia.net/img/gold-active-large.png",
+                        "title": "Gold Merchant"
+                    }
+                ],
+                "city": "Kota Depok",
+                "domain": "alkasih",
+                "gold_shop": true,
+                "id": "96161",
+                "is_owner": false,
+                "location": "Kota Depok",
+                "lucky_shop": "https://clover.tokopedia.com/badges/merchant/v1?shop_id=96161",
+                "name": "Alkasih Collection",
+                "owner_id": "283498",
+                "uri": "https://www.tokopedia.com/alkasih"
+            },
+            "shop_click_url": "https://ta.tokopedia.com/promo/v1/clicks/Hst7osjfH_Ud6sJEH_nEH_edo_1FHpUR6_tao_n?src=directory&r=https%3A%2F%2Fwww.tokopedia.com%2Falkasih&alg=def&ab_test=N&t=desktop&uid=0",
+            "sticker_id": "2",
+            "sticker_image": "https://ecs7.tokopedia.net/img/ads_microsite/promo-ok.png"
+        }
+    ],
+    "header": {
+        "meta": {
+            "display": "product"
+        },
+        "process_time": 0.036620927000000005,
+        "total_data": 10
+    },
+    "status": {
+        "error_code": 0,
+        "message": "OK"
+    }
+}
